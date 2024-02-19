@@ -1,0 +1,4 @@
+github.com/Ayodejidara/link v0.0.0-20240218000441-cdff9f87a8b8 h1:Z0fMP8A5YsVnjq3E7UGu5weox9sLg5aMKvr95JmollI=
+github.com/Ayodejidara/link v0.0.0-20240218000441-cdff9f87a8b8/go.mod h1:k9y1psr3FBleqlSYl5imTL1/8q16Bmvsm/SAcfsf/hk=
+golang.org/x/net v0.21.0 h1:AQyQV4dYCvJ7vGmJyKki9+PBdyvhkSd8EIx/qb0AYv4=
+golang.org/x/net v0.21.0/go.mod h1:bIjVDfnllIU7BJ2DNgfnXvpSvtn8VRwhlsaeUTyUS44=
